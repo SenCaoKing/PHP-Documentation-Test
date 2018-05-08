@@ -42,6 +42,4 @@
 
     // 同理还有函数:is_bool()、is_integer()、is_float()、is_real()、is_object() 和 is_array()。 
 
-
-
 ?>
