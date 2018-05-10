@@ -5,3 +5,4 @@
 2. 第一个简单的表单 form/form.html
 3. type PHP数据类型
 4. variable 变量
+5. constant 常量
