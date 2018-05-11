@@ -6,3 +6,4 @@
 3. type PHP数据类型
 4. variable 变量
 5. constant 常量
+6. expression 表达式
