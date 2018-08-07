@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 	// 算术运算符
 	
@@ -24,7 +24,7 @@
 
 	echo '<hr>';
 	# 例子,判断奇偶
-	$a = 10;
+	$a = 10;suanshu
 	for($i=0; $i<=$a; $i++){
 		if($i % 2 == 0)
 			echo "$i is even".'<br />';
