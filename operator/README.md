@@ -7,3 +7,5 @@
 5. bitwise_operators.php 位运算符
 6. comparison_operators.php 比较运算符
 7. error_control_operators.php 错误控制运算符
+8. execution_operators.php 执行运算符
+9. incrementing_decrementing_operators.php 递增/递减运算符
