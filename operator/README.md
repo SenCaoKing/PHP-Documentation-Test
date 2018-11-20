@@ -4,3 +4,5 @@
 2. operator_priority.php 运算符优先级
 3. arithmetic_operator.php 算术运算符
 4. assignment_operators.php 赋值运算符
+5. bitwise_operators.php 位运算符
+6. comparison_operators.php 比较运算符
