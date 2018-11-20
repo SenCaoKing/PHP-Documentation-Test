@@ -10,3 +10,6 @@
 8. execution_operators.php 执行运算符
 9. incrementing_decrementing_operators.php 递增/递减运算符
 10. logical_operators.php 逻辑运算符
+11. string_operators.php 字符串运算符
+12. array_operators.php 数组运算符
+13. type_operators.php 数组运算符
