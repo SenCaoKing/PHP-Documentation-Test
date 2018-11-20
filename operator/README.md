@@ -6,3 +6,4 @@
 4. assignment_operators.php 赋值运算符
 5. bitwise_operators.php 位运算符
 6. comparison_operators.php 比较运算符
+7. error_control_operators.php 错误控制运算符
