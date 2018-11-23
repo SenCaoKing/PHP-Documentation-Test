@@ -75,15 +75,27 @@ $a = new MyClass5;
 $b = new MyClass5;
 $c = 'MyClass5';
 $d = 'NotMyClass1';
-var_dump($a instanceof $b); // treu [$b is an object of class MyClass5]
+var_dump($a instanceof $b); // true [$b is an object of class MyClass5]
 var_dump($a instanceof $c); // true [$c is a string 'MyClass5']
 var_dump($a instanceof $d); // false [$d is a string 'NotMyClass1']
 
+echo '<hr>';
+
+// 如果被检测的变量不是对象，instanceof 并不发出任何错误信息而是返回 FALSE.不允许用来检测常量。
+# Example 6 用 instanceof 检测其他变量
+$a = 1;
+$b = NULL;
+$c = imagecreate(5, 5);
+var_dump($a instanceof stdClass);    // false [$a is an integer]
+var_dump($b instanceof stdClass);    // false [$b is NULL]
+var_dump($c instanceof stdClass);    // false [$c is a resource]
+// var_dump(FALSE instanceof stdClass); //  Fatal error: instanceof expects an object instance, constant given in
 
 echo '<hr>';
 
-
-echo '<hr>';
+# Example 7 避免 PHP5.0 中 instanceof 引起的类名查找和致命错误问题
+$d = 'NotMyClass';
+var_dump($a instanceof $d); // false [no fatal error here]
 
 
 ?>
