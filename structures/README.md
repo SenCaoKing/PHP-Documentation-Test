@@ -6,3 +6,4 @@
 4. while.php while
 5. do-while.php do-while
 6. for.php for
+7. foreach.php foreach
