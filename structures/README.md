@@ -9,3 +9,4 @@
 7. foreach.php foreach
 8. break.php break
 9. continue.php continue
+10. switch.php switch
