@@ -10,3 +10,4 @@
 8. break.php break
 9. continue.php continue
 10. switch.php switch
+11. declare.php declare
