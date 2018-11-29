@@ -16,3 +16,4 @@
 14. include.php include
 15. require_once.php require_once
 16. include_once.php include_once
+17. goto.php goto
