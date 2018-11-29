@@ -11,3 +11,6 @@
 9. continue.php continue
 10. switch.php switch
 11. declare.php declare
+12. return.php return
+13. require.php require
+13. include.php include

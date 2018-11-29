@@ -95,5 +95,11 @@ tick_handler() called
 // declare(encoding='ISO-8859-1');
 
 
+// Caution 当和命名空间结合起来时 declare 的唯一合法语法是 declare(encoding='...');，其中 ... 是编码的值。而 declare(encoding='...') {} 将在与命名空间结合时产生解析错误。
+
+// 在 PHP 5.3 中除非在编译时指定了 --enable-zend-multibyte，否则 declare 中的 encoding 值会被忽略。
+
+// 注意除非用 phpinfo()，否则 PHP 不会显示出是否在编译时指定了 --enable-zend-multibyte。
+
 
 ?>
