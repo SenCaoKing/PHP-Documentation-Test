@@ -13,4 +13,6 @@
 11. declare.php declare
 12. return.php return
 13. require.php require
-13. include.php include
+14. include.php include
+15. require_once.php require_once
+16. include_once.php include_once
