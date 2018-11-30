@@ -9,5 +9,6 @@
 6. expression 表达式
 7. operator 运算符
 8. structures 流程控制
+9. functions 函数
 
-9. yield 生成器yield语法
+10. yield 生成器yield语法
