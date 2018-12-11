@@ -5,3 +5,4 @@
 3. returning_values.php 返回值
 4. variable_functions.php 可变函数
 5. internal_functions.php 内部(内置)函数
+6. anonymous_functions.php 匿名函数
