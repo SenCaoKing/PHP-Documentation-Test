@@ -3,3 +3,4 @@
 1. introduction.php 简介
 2. basic.php 基本概念
 3. properties.php 属性
+4. constants.php 类常量

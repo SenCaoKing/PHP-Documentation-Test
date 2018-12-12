@@ -27,8 +27,8 @@ class SimpleClass
 hello world    
 EOD;
     public $var3 = 1+2;
-    public $var4 = self::myStaticMethod();
-    public $var5 = $myVar;
+    // public $var4 = self::myStaticMethod();
+    // public $var5 = $myVar;
 
     // 正确的属性声明
     public $var6 = myConstant;
