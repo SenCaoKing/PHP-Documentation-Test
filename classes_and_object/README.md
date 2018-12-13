@@ -5,3 +5,4 @@
 3. properties.php 属性
 4. constants.php 类常量
 5. autoloading.php 类的自动加载
+5. constructors_destructors.php 构造函数和析构函数
