@@ -10,3 +10,4 @@
 8. object_inheritance.php 对象继承
 9. scope_operator.php 范围解析操作符(::)
 10. static_keyword.php Static（静态）关键字
+11. class_abstraction.php 抽象类
