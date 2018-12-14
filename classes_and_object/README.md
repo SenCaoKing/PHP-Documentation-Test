@@ -8,3 +8,4 @@
 6. constructors_destructors.php 构造函数和析构函数
 7. visibility.php 访问控制（可见性）
 8. object_inheritance.php 对象继承
+9. scope_operator.php 范围解析操作符(::)
