@@ -12,3 +12,4 @@
 10. static_keyword.php Static（静态）关键字
 11. class_abstraction.php 抽象类
 12. object_interfaces.php 对象接口
+13. trait.php Trait
