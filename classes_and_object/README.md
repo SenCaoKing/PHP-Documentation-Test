@@ -13,3 +13,4 @@
 11. class_abstraction.php 抽象类
 12. object_interfaces.php 对象接口
 13. trait.php Trait
+14. anonymous_classes.php 匿名类
