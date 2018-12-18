@@ -16,3 +16,4 @@
 14. anonymous_classes.php 匿名类
 15. overloading.php 重载
 16. object_iteration.php 遍历对象
+17. magic_methods.php 魔术方法
