@@ -17,3 +17,4 @@
 15. overloading.php 重载
 16. object_iteration.php 遍历对象
 17. magic_methods.php 魔术方法
+18. final_keyword.php Final关键字
