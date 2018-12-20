@@ -19,3 +19,4 @@
 17. magic_methods.php 魔术方法
 18. final_keyword.php Final关键字
 19. object_cloning.php 对象复制
+20. comparing_objects.php 对象比较
