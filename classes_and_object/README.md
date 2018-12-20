@@ -18,3 +18,4 @@
 16. object_iteration.php 遍历对象
 17. magic_methods.php 魔术方法
 18. final_keyword.php Final关键字
+19. object_cloning.php 对象复制
