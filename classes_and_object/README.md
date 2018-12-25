@@ -21,3 +21,4 @@
 19. object_cloning.php 对象复制
 20. comparing_objects.php 对象比较
 21. type_hinting.php 类型约束
+22. late_static_bindings.php 后期静态绑定
