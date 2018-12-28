@@ -23,3 +23,4 @@
 21. type_hinting.php 类型约束
 22. late_static_bindings.php 后期静态绑定
 23. objects_and_references.php 对象和引用
+24. object_serialization.php 对象序列化
