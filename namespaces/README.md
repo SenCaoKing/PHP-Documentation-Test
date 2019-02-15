@@ -9,3 +9,4 @@
 7. namespace_keyword_and_constant.php namespace关键字和__NAMESPACE__常量
 8. aliasing_importing.php 使用命名空间 : 别名/导入
 9. global_space.php 全局空间
+10. using_namespaces_fallback_constant.php 使用命名空间 : 后备全局函数/常量
