@@ -13,5 +13,4 @@
 10. classes_and_object 类和对象
 11. namespaces 命名空间
 12. exceptions 异常处理
-
-13. yield 生成器yield语法
+13. generators 生成器
